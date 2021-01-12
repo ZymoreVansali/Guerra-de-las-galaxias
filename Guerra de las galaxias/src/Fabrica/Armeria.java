@@ -10,5 +10,5 @@ package Fabrica;
  * @author Usuario
  */
 public class Armeria {
-    
+    //
 }
